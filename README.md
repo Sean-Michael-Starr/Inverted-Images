@@ -1,4 +1,4 @@
-<!-- doc ver 0.4.0 -->
+<!-- doc ver 0.5.0 -->
 
 # Inverted-Images
 Black and white icons, logos, and headers for use in display environments that don't support CSS (such as GitHub) for light-themes and dark-themes
@@ -9,3 +9,6 @@ Black and white icons, logos, and headers for use in display environments that d
 ## Other
 ### Igloo
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/blueigloo-dark.png" width="40" height="32" alt="Igloo"> <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/blueigloo-light.png" width="40" height="32" alt="Igloo">
+
+### Data Sovereignty 
+<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/cati-folder-dark.png" height="40" length="68" alt="CATI"> <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/cati-folder-light.png" height="40" length="68" alt="CATI">

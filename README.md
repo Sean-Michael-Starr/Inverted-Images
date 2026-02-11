@@ -1,4 +1,4 @@
-<!-- doc ver 0.6.0 -->
+<!-- doc ver 0.6.1 -->
 
 # Inverted-Images
 Black and white icons, logos, and headers for use in display environments that don't support CSS (such as GitHub) for light-themes and dark-themes
@@ -13,10 +13,3 @@ Black and white icons, logos, and headers for use in display environments that d
 
 #### Data Sovereignty 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/cati-folder-dark.png" height="40" length="68" alt="CATI"> <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Inverted-Images/refs/heads/main/png/cati-folder-light.png" height="40" length="68" alt="CATI">
-
-## WIKI COMMONS
-### TECH - SYSTEMS
-#### QUBES
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg" alt="Qubes OS" />
-
-```https://upload.wikimedia.org/wikipedia/commons/6/61/Qubes_OS_Logo.svg```

@@ -1,6 +1,9 @@
-<!-- doc ver 0.6.1 -->
+<!-- doc ver 1.7.1-alpha -->
 
 # Inverted-Images
+
+<img alt="Static Badge" src="https://img.shields.io/badge/STABILITY-WORK_IN_PROGRESS-GREY?style=for-the-badge&logo=github&logoSize=auto&labelColor=blue&color=grey">
+
 Black and white icons, logos, and headers for use in display environments that don't support CSS (such as GitHub) for light-themes and dark-themes
 ## INVERTED IMAGES
 ### Tech

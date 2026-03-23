@@ -1,8 +1,10 @@
-<!-- doc ver 1.7.1-alpha -->
+<!-- doc ver 1.8.1-alpha -->
 
 # Inverted-Images
-
+<p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/STABILITY-WORK_IN_PROGRESS-GREY?style=for-the-badge&logo=github&logoSize=auto&labelColor=blue&color=grey">
+<img alt="GitHub repo file or directory count (in path)" src="https://img.shields.io/github/directory-file-count/Sean-Michael-Starr/Inverted-Images/png?style=for-the-badge&logo=github&logoSize=auto&label=PNG%20Image%20Count&labelColor=blue&color=grey">
+</p>
 
 Black and white icons, logos, and headers for use in display environments that don't support CSS (such as GitHub) for light-themes and dark-themes
 ## INVERTED IMAGES
